@@ -107,7 +107,7 @@ Cydex will never **never require users to provide**:
 
 Do not use or distribute features intended to steal credentials, bypass authentication, or circumvent Roblox security systems.
 
-> ⚠️ **Disclaimer:** Although Cydex will not ask for user info, it could be possible that peoples macro profiles could potentially content malicious code. Please make sure what you are running and that for maximum safety stick to Cydex Official Profiles.
+> ⚠️ **Disclaimer:** Although Cydex will not ask for user info, it could be possible that peoples macro profiles could potentially contain malicious code. Please make sure what you are running and that for maximum safety stick to Cydex Official Profiles.
 
 ---
 
